@@ -10,3 +10,8 @@ information.
 We hope the transition will preserves transparently most of the links between tango web pages.
 
 --- Kace (july 2015)
+
+to do:
+- remove obsolete email
+- add analytics
+
