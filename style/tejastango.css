@@ -1,12 +1,11 @@
 /* CSS Document */
 body {
   color:#000000; background-color:#FFFFFF;
-  border: 5px 10px;
+  border: 0px 20px;
   font-family: Verdana, Tahoma, Arial;
 }
-a {
-  color:#CC6600;
-}
+a,
 a:visited {
-  color:#551A8B;
+  color:#CC6600;
+  text-decoration: underline;
 }
