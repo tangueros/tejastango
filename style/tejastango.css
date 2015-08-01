@@ -1,7 +1,9 @@
 /* CSS Document */
 body {
   color:#000000;
-  background-color:#FFEEFF;
+  background-color:#FFFFFF;
+  margin: 5px 10px;
+  font-family: Verdana, Tahoma, Arial;
 }
 a {
   color:#CC6600;
