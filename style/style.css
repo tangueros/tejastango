@@ -1,8 +1,8 @@
 /* CSS Document */
 body {
+  border:0; margin:0; padding:0;
   color:#000000; background-color:#FFFFFF;
   font-family: Verdana, Tahoma, Arial;
-  border:0; margin:0;
 }
 
 a,
@@ -11,19 +11,14 @@ a:visited {
   text-decoration: underline;
 }
 
-header.site-header {
-  background-color:#CCCCFF;
-  color:#FFFFCC;
-  border:10px;
-}
-
+header.site-header,
 footer.site-footer {
-  background-color:#CCCCFF;
-  color:#FFFFCC;
-  border:10px;
+  background-color:#8888CC;
+  color:#FFFFFF;
+  padding:10px;
 }
 
 div.page-content {
-  border: 10px 40px;
+  padding: 10px 40px;
   line-height:1.5em;
 }
