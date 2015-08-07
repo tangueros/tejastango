@@ -2,6 +2,7 @@
 body {
   color:#000000; background-color:#FFFFFF;
   font-family: Verdana, Tahoma, Arial;
+  border:0; margin:0;
 }
 
 a,
@@ -13,14 +14,16 @@ a:visited {
 header.site-header {
   background-color:#CCCCFF;
   color:#FFFFCC;
+  border:10px;
 }
 
 footer.site-footer {
   background-color:#CCCCFF;
   color:#FFFFCC;
+  border:10px;
 }
 
 div.page-content {
-  border: 10px 20px;
+  border: 10px 40px;
   line-height:1.5em;
 }
