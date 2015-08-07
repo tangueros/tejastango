@@ -1,7 +1,6 @@
 /* CSS Document */
 body {
   color:#000000; background-color:#FFFFFF;
-  border: 0px 20px;
   font-family: Verdana, Tahoma, Arial;
 }
 
@@ -19,4 +18,9 @@ header.site-header {
 footer.site-footer {
   background-color:#CCCCFF;
   color:#FFFFCC;
+}
+
+div.page-content {
+  border: 10px 20px;
+  line-height:1.5em;
 }
