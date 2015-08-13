@@ -1,27 +1,69 @@
-/* CSS Document */
-body {
-  border:0; margin:0; padding:0;
-  color:#000000; background-color:#FFFFFF;
-  font-family: Georgia,Verdana, Tahoma, Arial;
+/***************
+ fonts 
+**************/
+/*body {font-family: Georgia,Verdana, Tahoma, Arial;}
+*/
+.site-header, .site-footer {text-align:center;}
+.site-header h3 {font-size: 12px; text-align: left;}
+.site-header h1 {font-family: Tahoma;}
+.footer-heading {font: 1.3em Georgia;}
+.quick-footer {font: 10pt Tahoma;}
+
+
+/***************
+ colors, layout 
+**************/
+.site-header, .site-footer {
+  background-color:#8888CC; color:#FFFFFF;
+  padding: 5px 10px;
+}
+.page-content {
+  padding: 10px 0;
+  line-height:1.6em;
+}
+.quick-footer {margin:0 0 20px 0; padding:0;}
+.quick-footer li {display: inline; padding: 0 20px;}
+.author {font-style: italic; padding-bottom: 10px;}
+
+
+/***************
+ links 
+**************/
+/*a {color:#933;text-decoration: underline;}
+a:hover {color:#339;}
+*/
+.site-header a,
+.site-footer a {color:#ffe;}
+
+
+
+
+
+
+/*************************************
+ dividers
+ ************************************/
+a.bando
+{
+   display: block; width:96px !important; height:50px !important;
+   margin: 10px auto; 
+   border: dotted 1px #999;
 }
 
-a,
-a:visited {
-  color:#CC6600;
-  text-decoration: underline;
+a.yellowb  {background-image: url(/res/avacadob.jpg);}
+a.magentab {background-image: url(/res/magentab.jpg);}
+a.blueb    {background-image: url(/res/blueb.jpg);}
+a.redb     {background-image: url(/res/redb.jpg);}
+a.goldb    {background-image: url(/res/goldb.jpg);}
+
+/***************
+ featured photo 
+**************/
+img.intropix {
+   padding: 10px;
+   float: right;
+   xborder: solid 1px #555;
+   margin: 0 0 10px 10px;
+   max-height: 450px;
 }
 
-header.site-header,
-footer.site-footer {
-  background-color:#8888CC;
-  color:#FFFFFF;
-  padding:10px;
-  text-align:center;
-}
-
-
-
-div.page-content {
-  padding: 10px 40px;
-  line-height:1.5em;
-}
