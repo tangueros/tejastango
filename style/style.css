@@ -56,6 +56,44 @@ a.blueb    {background-image: url(/res/blueb.jpg);}
 a.redb     {background-image: url(/res/redb.jpg);}
 a.goldb    {background-image: url(/res/goldb.jpg);}
 
+/*************************************
+ stars
+ ************************************/
+i.rate {
+  display: inline-block;   
+  box-sizing: content-box; 
+  width:75px !important; height:21px !important;
+  padding: 0; border: dotted 1px #999;
+  margin: 0 2px -4px 2px;
+}
+
+i.not      {background-image: url(/res/not.gif);}
+i.pass     {background-image: url(/res/pass.gif);}
+i.star1    {background-image: url(/res/1star.gif);}
+i.star1_5  {background-image: url(/res/1_5star.gif);}
+i.star2    {background-image: url(/res/2star.gif);}
+i.star2_5  {background-image: url(/res/2_5star.gif);}
+i.star3    {background-image: url(/res/3star.gif);}
+i.star3_5  {background-image: url(/res/3_5star.gif);}
+i.star4    {background-image: url(/res/4star.gif);}
+i.star4_5  {background-image: url(/res/4_5star.gif);}
+i.star5    {background-image: url(/res/5star.gif);}
+
+/*
+<img SRC="not.gif" ALT="not rated" height=21 width=75>
+<img SRC="pass.gif" ALT="pass" height=21 width=75>
+<img SRC="5star.gif" ALT="5 stars" height=21 width=75 align=ABSCENTER>
+<img SRC="4_5star.gif" ALT="4.5 stars" height=21 width=75>
+<img SRC="4star.gif" ALT="4 stars" height=21 width=75 align=ABSCENTER>
+<img SRC="3_5star.gif" ALT="3.5 stars" height=21 width=75>
+<img SRC="3star.gif" ALT="3 stars" height=21 width=75 align=ABSCENTER>
+<img SRC="2_5star.gif" ALT="2.5 stars" height=21 width=75>
+<img SRC="2star.gif" ALT="2 stars" height=21 width=75>
+<img SRC="1_5star.gif" ALT="1.5 stars" height=21 width=75>
+<img SRC="1star.gif" ALT="1 star" height=21 width=75 align=ABSCENTER>
+*/
+
+
 /***************
  featured photo 
 **************/
