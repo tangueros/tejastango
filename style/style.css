@@ -118,3 +118,8 @@ img.featpix {
   padding:20px; font-size:14px;
   background-color:#efe;
 }
+
+.blogitems img {
+  padding:20px; margin-right:10px;
+  float: left;
+}
