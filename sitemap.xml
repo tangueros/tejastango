@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url> 
+    <loc>http://www.tejastango.com</loc> 
+    <image:image>
+       <image:loc>http://www.tejastango.com/res/poster.jpg</image:loc> 
+    </image:image>
+  </url>
+  <url>                                        
+     <loc>http://www.tejastango.com/video_resources.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/tango_music.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/terminology.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/beginning_tango.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/faq_tango.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/tango_styles.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/tango_history.html</loc>
+  </url>
+  <url>
+     <loc>http://www.tejastango.com/tango_links.html</loc>
+  </url>
+</urlset>
