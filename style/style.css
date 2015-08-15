@@ -47,7 +47,7 @@ a.bando
 {
    display: block; width:96px !important; height:50px !important;
    margin: 10px auto; 
-   border: dotted 1px #eee;
+   xborder: dotted 1px #eee;
 }
 
 a.yellowb  {background-image: url(/tejastango/res/avacadob.jpg);}
@@ -66,7 +66,7 @@ i.rate {
   display: inline-block;   
   box-sizing: content-box; 
   width:75px !important; height:21px !important;
-  padding: 0; border: dotted 1px #eee;
+  padding: 0; xborder: dotted 1px #eee;
   margin: 0 2px -4px 2px;
 }
 
@@ -103,8 +103,18 @@ i.star5    {background-image: url(/tejastango/res/5star.gif);}
 img.intropix {
    padding: 10px;
    float: right;
-   xborder: solid 1px #555;
    margin: 0 0 10px 10px;
    max-height: 450px;
 }
 
+img.featpix {
+   padding: 10px;
+   float: left;
+   margin: 0 10px 10px 0;
+   max-height: 120px;
+}
+
+.blogitems {
+  padding:20px; font-size:14px;
+  background-color:#efe;
+}
