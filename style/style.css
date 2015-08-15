@@ -9,7 +9,10 @@
 #slogan {
   color:#CCC; padding-top:15px;
 }
-.site-header, .site-footer {text-align:center;}
+.site-header h1 {text-align:left;
+  font-family: Georgia, serif!important;
+} 
+.site-footer {text-align:center;}
 .site-header h3 {font-size: 12px; text-align: left;}
 .site-header h1 {font-family: Tahoma;}
 .footer-heading {font: 1.3em Georgia;}
@@ -22,7 +25,11 @@
 body {
   margin-top:40px;
 }
-.site-header, .site-footer {
+.site-header {
+  background-color:#EEF; color:#444;
+  padding: 15px 10px;
+}
+.site-footer {
   background-color:#8888CC; color:#FFFFFF;
   padding: 5px 10px;
 }
