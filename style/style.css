@@ -3,6 +3,12 @@
 **************/
 /*body {font-family: Georgia,Verdana, Tahoma, Arial;}
 */
+.navbar {
+  font-family: 'Oswald', sans-serif !important;
+}
+#slogan {
+  color:#CCC; padding-top:15px;
+}
 .site-header, .site-footer {text-align:center;}
 .site-header h3 {font-size: 12px; text-align: left;}
 .site-header h1 {font-family: Tahoma;}
@@ -13,6 +19,9 @@
 /***************
  colors, layout 
 **************/
+body {
+  margin-top:40px;
+}
 .site-header, .site-footer {
   background-color:#8888CC; color:#FFFFFF;
   padding: 5px 10px;
