@@ -115,11 +115,12 @@ img.featpix {
 }
 
 .blogitems {
-  padding:20px; font-size:14px;
+  padding:20px; 
+  font:14px Georgia;
+  line-height:1.5em;
   background-color:#efe;
 }
 
 .blogitems img {
-  padding:20px; margin-right:10px;
-  float: left;
+  margin-right:10px; float: left;
 }
