@@ -66,14 +66,14 @@ a.bando
    xborder: dotted 1px #eee;
 }
 
-a.yellowb  {background-image: url(/tejastango/res/avacadob.jpg);}
-a.magentab {background-image: url(/tejastango/res/magentab.jpg);}
-a.blueb    {background-image: url(/tejastango/res/blueb.jpg);}
-a.redb     {background-image: url(/tejastango/res/redb.jpg);}
-a.goldb    {background-image: url(/tejastango/res/goldb.jpg);}
-a.greenb   {background-image: url(/tejastango/res/greenb.jpg);}
-a.purpleb  {background-image: url(/tejastango/res/purpleb.jpg);}
-a.blackb   {background-image: url(/tejastango/res/black2b.jpg);}
+a.yellowb  {background-image: url(/res/avacadob.jpg);}
+a.magentab {background-image: url(/res/magentab.jpg);}
+a.blueb    {background-image: url(/res/blueb.jpg);}
+a.redb     {background-image: url(/res/redb.jpg);}
+a.goldb    {background-image: url(/res/goldb.jpg);}
+a.greenb   {background-image: url(/res/greenb.jpg);}
+a.purpleb  {background-image: url(/res/purpleb.jpg);}
+a.blackb   {background-image: url(/res/black2b.jpg);}
 
 /*************************************
  stars
@@ -86,17 +86,17 @@ i.rate {
   margin: 0 2px -4px 2px;
 }
 
-i.not      {background-image: url(/tejastango/res/not.gif);}
-i.pass     {background-image: url(/tejastango/res/pass.gif);}
-i.star1    {background-image: url(/tejastango/res/1star.gif);}
-i.star1_5  {background-image: url(/tejastango/res/1_5star.gif);}
-i.star2    {background-image: url(/tejastango/res/2star.gif);}
-i.star2_5  {background-image: url(/tejastango/res/2_5star.gif);}
-i.star3    {background-image: url(/tejastango/res/3star.gif);}
-i.star3_5  {background-image: url(/tejastango/res/3_5star.gif);}
-i.star4    {background-image: url(/tejastango/res/4star.gif);}
-i.star4_5  {background-image: url(/tejastango/res/4_5star.gif);}
-i.star5    {background-image: url(/tejastango/res/5star.gif);}
+i.not      {background-image: url(/res/not.gif);}
+i.pass     {background-image: url(/res/pass.gif);}
+i.star1    {background-image: url(/res/1star.gif);}
+i.star1_5  {background-image: url(/res/1_5star.gif);}
+i.star2    {background-image: url(/res/2star.gif);}
+i.star2_5  {background-image: url(/res/2_5star.gif);}
+i.star3    {background-image: url(/res/3star.gif);}
+i.star3_5  {background-image: url(/res/3_5star.gif);}
+i.star4    {background-image: url(/res/4star.gif);}
+i.star4_5  {background-image: url(/res/4_5star.gif);}
+i.star5    {background-image: url(/res/5star.gif);}
 
 /*
 <img SRC="not.gif" ALT="not rated" height=21 width=75>
