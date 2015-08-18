@@ -1,8 +1,9 @@
 /***************
  fonts 
 **************/
-/*body {font-family: Georgia,Verdana, Tahoma, Arial;}
-*/
+body {font-size: 12pt;
+/*family: Georgia,Verdana, Tahoma, Arial;*/}
+
 .navbar {
   font-family: 'Oswald', sans-serif !important;
 }
